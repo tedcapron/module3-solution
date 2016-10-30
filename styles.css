@@ -1,0 +1,28 @@
+body{
+    background-color: whitesmoke;
+    font-family:"Comic Sans", cursive, sans-serif;
+    color: black;
+    font-weight: 800
+}
+#myheader{
+    background-color: darkgray;
+    color:black;
+    text-decoration: none;
+    }
+#mypara{
+    background-color: darkgray;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.mydrop{
+    background-color: darkgray;
+   text-align: center;
+    margin-top: auto;
+    border: 1px solid black;
+    font-size: 1.4em;
+    
+}
+.test{
+    background-color: crimson;
+    
+}
