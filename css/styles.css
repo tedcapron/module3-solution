@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: whitesmoke;
     font-family:"Comic Sans", cursive, sans-serif;
@@ -26,3 +27,36 @@ body{
     background-color: crimson;
     
 }
+=======
+body{
+    background-color: whitesmoke;
+    font-family:"Comic Sans ms", verdana , sans-serif;
+    color: black;
+    font-weight: 800
+}
+#myheader{
+    background-color: darkgray;
+    color:black;
+    text-decoration: none;
+    }
+#mypara{
+    background-color: darkgray;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.mydrop{
+    background-color: darkgray;
+   text-align: center;
+    margin-top: auto;
+    border: 1px solid black;
+    font-size: 1.4em;
+    
+}
+.test{
+    background-color: crimson;
+    
+}
+#chicken{}
+#beef{}
+#sushi{}
+>>>>>>> ad147b35b7ad2fb87f8e00d4b619dc5d2d4744eb
